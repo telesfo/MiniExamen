@@ -17,7 +17,7 @@ public class PRINCIPAL {
         COORDINADOR coordinador = new COORDINADOR();
 
         alumno.socializar();
-        alumno.evalua();
+        alumno.coordina();
        System.out.println("-----------");
         docente.socializar();
         docente.evalua();
